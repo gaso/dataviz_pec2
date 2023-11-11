@@ -5,8 +5,6 @@
 
 Este análisis emprende un viaje retrospectivo para revelar las historias que yacen detrás de los números del Titanic. A través de visualizaciones elocuentes e ingeniosas, se investigan las distintas capas sociales presentes en la nave, así como también sus posibilidades para sobrevivir y su perfil demográfico.
 
-## Click para abrir Notebook y explorar resultados en Google Colab
-<a href="https://colab.research.google.com/drive/1mOcMIvL0xw8nGxAMN_SATcPHYepJACzK?usp=sharing" target="_blank"><img height="40" alt="Abrir en Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 ### Tecnica de Visualización: Pie Chart
 El gráfico circular representa visualmente la distribución porcentual de los pasajeros del Titanic según su clase de viaje. Un vistazo rápido revela que la mayoría de los pasajeros, el 61,5%, viajaron en tercera clase, lo que indica que era la opción más asequible o popular entre los viajeros del Titanic. La primera y segunda clase tienen una representación igual del 19,2% cada una, lo que sugiere que menos pasajeros podrían permitirse o elegir estas opciones más caras. Este tipo de gráfico es útil para comprender la estructura de datos en términos de proporciones y facilita una comparación rápida entre categorías.
