@@ -32,3 +32,7 @@ En alguna película escuchamos la exclamación de ¡Mujeres y niños primero! 
 El Rain Cloud Plot generado para el conjunto de datos del Titanic permite observar la distribución de edades de los pasajeros en relación con su supervivencia. Las áreas sombreadas indican densidad de pasajeros por grupo de edad, ampliándose en zonas de mayor concentración. Los puntos del gráfico representan edades individuales distribuidas para minimizar la superposición y mejorar la legibilidad. Los diagramas de caja superpuestos proporcionan un resumen estadístico que destaca las medianas, los cuartiles y los valores atípicos, al tiempo que facilitan la comparación entre los grupos de supervivencia.
 
 ![](https://raw.githubusercontent.com/gaso/dataviz_pec2/main/images/rain.gif)
+
+
+## Click para abrir Notebook y explorar resultados en Google Colab
+<a href="https://colab.research.google.com/drive/1mOcMIvL0xw8nGxAMN_SATcPHYepJACzK?usp=sharing" target="_blank"><img height="40" alt="Abrir en Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a>
